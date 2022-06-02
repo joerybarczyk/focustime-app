@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { View, Text, StyleSheet, Vibration } from 'react-native';
 import { ProgressBar } from 'react-native-paper';
 import { Countdown } from '../components/Countdown';
